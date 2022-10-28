@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../interfaces/post.ts"],
+  "sourcesContent": ["import type Author from './author'\n\ntype PostType = {\n  slug: string\n  title: string\n  date: string\n  coverImage: string\n  author: Author\n  excerpt: string\n  ogImage: {\n    url: string\n  }\n  content: string\n}\n\nexport default PostType\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

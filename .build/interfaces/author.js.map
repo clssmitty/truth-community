@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../interfaces/author.ts"],
+  "sourcesContent": ["type Author = {\n  name: string\n  picture: string\n}\n\nexport default Author\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

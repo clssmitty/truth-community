@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../postcss.config.js"],
+  "sourcesContent": ["// If you want to use other PostCSS plugins, see the following:\n// https://tailwindcss.com/docs/using-with-preprocessors\nmodule.exports = {\n  plugins: {\n    tailwindcss: {},\n    autoprefixer: {},\n  },\n}\n"],
+  "mappings": "AAEA,OAAO,UAAU;AAAA,EACf,SAAS;AAAA,IACP,aAAa;AAAA,IACb,cAAc;AAAA;AAAA;",
+  "names": []
+}

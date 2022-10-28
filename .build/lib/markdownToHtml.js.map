@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../lib/markdownToHtml.ts"],
+  "sourcesContent": ["import { remark } from 'remark'\nimport html from 'remark-html'\n\nexport default async function markdownToHtml(markdown: string) {\n  const result = await remark().use(html).process(markdown)\n  return result.toString()\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAuB;AACvB,yBAAiB;AAEjB,8BAA6C,UAAkB;AAC7D,QAAM,SAAS,MAAM,4BAAS,IAAI,4BAAM,QAAQ;AAChD,SAAO,OAAO;AAAA;",
+  "names": []
+}

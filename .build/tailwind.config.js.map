@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../tailwind.config.js"],
+  "sourcesContent": ["/** @type {import('tailwindcss').Config} */\nmodule.exports = {\n  content: ['./components/**/*.tsx', './pages/**/*.tsx'],\n  theme: {\n    extend: {\n      colors: {\n        'accent-1': '#FAFAFA',\n        'accent-2': '#EAEAEA',\n        'accent-7': '#333',\n        success: '#0070f3',\n        cyan: '#79FFE1',\n      },\n      spacing: {\n        28: '7rem',\n      },\n      letterSpacing: {\n        tighter: '-.04em',\n      },\n      lineHeight: {\n        tight: 1.2,\n      },\n      fontSize: {\n        '5xl': '2.5rem',\n        '6xl': '2.75rem',\n        '7xl': '4.5rem',\n        '8xl': '6.25rem',\n      },\n      boxShadow: {\n        sm: '0 5px 10px rgba(0, 0, 0, 0.12)',\n        md: '0 8px 30px rgba(0, 0, 0, 0.12)',\n      },\n    },\n  },\n  plugins: [],\n}\n"],
+  "mappings": "AACA,OAAO,UAAU;AAAA,EACf,SAAS,CAAC,yBAAyB;AAAA,EACnC,OAAO;AAAA,IACL,QAAQ;AAAA,MACN,QAAQ;AAAA,QACN,YAAY;AAAA,QACZ,YAAY;AAAA,QACZ,YAAY;AAAA,QACZ,SAAS;AAAA,QACT,MAAM;AAAA;AAAA,MAER,SAAS;AAAA,QACP,IAAI;AAAA;AAAA,MAEN,eAAe;AAAA,QACb,SAAS;AAAA;AAAA,MAEX,YAAY;AAAA,QACV,OAAO;AAAA;AAAA,MAET,UAAU;AAAA,QACR,OAAO;AAAA,QACP,OAAO;AAAA,QACP,OAAO;AAAA,QACP,OAAO;AAAA;AAAA,MAET,WAAW;AAAA,QACT,IAAI;AAAA,QACJ,IAAI;AAAA;AAAA;AAAA;AAAA,EAIV,SAAS;AAAA;",
+  "names": []
+}
