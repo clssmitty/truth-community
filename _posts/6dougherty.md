@@ -1,13 +1,13 @@
 ---
-title: 'Coster Repair Shops'
+title: 'Dougherty elected to football Hall of Fame'
 excerpt: 'A historic Victorian farmhouse built in 1893 by Alfred Frankenberg and family.'
-coverImage: '/assets/blog/history/costerpostcard.png'
+coverImage: '/assets/blog/history/Nathan-dougherty-tennessee-1909.png'
 date: '2022-03-16T05:35:07.322Z'
 author:
   name: Chris Smith
   picture: '/assets/blog/authors/profile.jpeg'
 ogImage:
-  url: '/assets/blog/history/costerpostcard.png'
+  url: '/assets/blog/history/Nathan-dougherty-tennessee-1909.png'
 ---
 
 911 Irwin St. is a historic Victorian farmhouse built in 1893 (and was originally addressed as 1011 Irwin St. before the block shifted). The house was originally built by the Frankenbergs, a family that immigrated to America from Germany in the mid 1800's. It was the first house on the block and was originally surrounded by a large area of farmland. The father of the household, Alfred Frankenberg, worked at the Coster Repair Shops, a repair depot for the Southern Railway station off of Central Ave. where he repaired train engines and train parts. His two daughters, Elizabeth and Emma, were active in the local Lutheran church which had a large congregation of German speaking immigrants. As well, Elizabeth played historic roles in the women's suffrage movement helping to give women the right to vote.

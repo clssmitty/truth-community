@@ -1,5 +1,5 @@
 ---
-title: 'Alfred Frankenberg'
+title: 'Alfred Frankenberg father of The Irwin dies'
 excerpt: 'A historic Victorian farmhouse built in 1893 by Alfred Frankenberg and family.'
 coverImage: '/assets/blog/history/death.jpeg'
 date: '2022-03-16T05:35:07.322Z'
