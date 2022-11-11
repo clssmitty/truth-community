@@ -10,7 +10,15 @@ ogImage:
   url: '/assets/blog/history/irwin.jpeg'
 ---
 
-911 Irwin St. is a historic Victorian farmhouse built in 1893 (and was originally addressed as 1011 Irwin St. before the block shifted). The house was originally built by the Frankenbergs, a family that immigrated to America from Germany in the mid 1800's. It was the first house on the block and was originally surrounded by a large area of farmland. The father of the household, Alfred Frankenberg, worked at the Coster Repair Shops, a repair depot for the Southern Railway station off of Central Ave. where he repaired train engines and train parts. His two daughters, Elizabeth and Emma, were active in the local Lutheran church which had a large congregation of German speaking immigrants. As well, Elizabeth played historic roles in the women's suffrage movement helping to give women the right to vote.
+911 Irwin St. is a historic Victorian farmhouse built in 1893 (and was originally addressed as 1011 Irwin St. before the block shifted). The house was originally built by the Frankenbergs, a family that immigrated to America from Germany in the mid 1800's. It was the first house on the block and was originally surrounded by a large area of farmland. 
+
+![](/assets/blog/history/death.jpeg)
+
+The father of the household, Alfred Frankenberg, worked at the Coster Repair Shops, a repair depot for the Southern Railway station off of Central Ave. where he repaired train engines and train parts. 
+
+![](/assets/blog/history/costerpostcard.png)
+
+His two daughters, Elizabeth and Emma, were active in the local Lutheran church which had a large congregation of German speaking immigrants. As well, Elizabeth played historic roles in the women's suffrage movement helping to give women the right to vote.
 
 During her two terms as President of the Knoxville Business and Professional Women, Ms. Frankenberg lobbied the Tennessee State Legislature as well as the Tennessee delegation in Congress for the passage of the Equal Rights Amendment. Due in part to her efforts, Tennessee did pass the Equal Rights Amendment. The Knoxville Business and Professional Women honored Ms. Frankenberg with an award for Lifetime Service to Women in Business in 1987. 
 
