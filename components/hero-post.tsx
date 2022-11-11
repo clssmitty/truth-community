@@ -36,7 +36,7 @@ const HeroPost = ({
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4">{excerpt} 911 Irwin St. was originally addressed as 1011 Irwin St. before the block shifted. The house was originally built by the Frankenbergs, a family that immigrated to America from Germany in the mid 1800's. It was the first house on the block and was originally surrounded by a large area of farmland.</p>
 
         </div>
       </div>
