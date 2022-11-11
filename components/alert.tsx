@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              Sign up for our mailing list here:...
+              Visit our Airbnb <a href="knoxvillebnb.com"> here </a>
             </>
           )}
         </div>

@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Bedrock - Build on solid ground</title>
+          <title>The Irwin - Victorian Farmhouse</title>
         </Head>
         <Container>
           <Intro />
