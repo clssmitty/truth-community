@@ -1,5 +1,5 @@
 ---
-title: 'r4The Irwin at 911 Irwin St. in Knoxville, TN'
+title: 'The Irwin at 911 Irwin St. in Knoxville, TN'
 excerpt: 'A historic Victorian farmhouse built in 1893 by Alfred Frankenberg and family. 911 Irwin St. was originally addressed as 1011 Irwin St. before the block shifted. The house was originally built by the Frankenbergs, a family that immigrated to America from Germany in the mid 1800's. It was the first house on the block and was originally surrounded by a large area of farmland.'
 coverImage: '/assets/blog/history/irwin.jpeg'
 date: '2022-03-16T05:35:07.322Z'
